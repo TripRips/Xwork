@@ -1,0 +1,294 @@
+.LOGO_x
+{
+
+    line-height: 100px;
+    padding-left: 77px;
+    white-space: nowrap ;
+    font-size: 70px;
+    font-family: 'Architects Daughter', cursive;
+    color: #d492ae
+
+}
+
+.LOGO_work
+{
+
+    line-height: 100px;
+    white-space: nowrap ;
+    font-size: 70px;
+    font-family: 'Architects Daughter', cursive;
+    color: #fbe0e4
+
+}
+
+.img_homepg
+{
+
+    width: 840px;
+    height: 754px;
+    background-image: url('img/Image.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 0px;
+    right: 0px;
+
+}
+
+.img_Register
+{
+
+    width: 840px;
+    height: 630px;
+    background-image: url('img/Group 1.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 80px;
+    right: 100px;
+
+}
+
+.pink_square_border
+{
+
+    width: 30px;
+    height: 30px;
+    background-image: url('img/kv_border.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 150px;
+    left: 89px;
+
+}
+
+.bold_hor_line
+{
+
+    width: 500px;
+    height: 4px;
+    background-image: url('img/resna_hor.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 200px;
+    left: 89px;
+
+}
+
+.bold_ver_line
+{
+
+    width: 4px;
+    height: 300px;
+    background-image: url('img/resna_ver.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 310px;
+    left: 40px;
+
+}
+
+.reg_aile
+{
+
+    width: 350px;
+    height: 53px;
+    background-image: url('img/Register.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 310px;
+    left: 40px;
+
+}
+
+.pink_square_solid
+{
+
+    width: 30px;
+    height: 30px;
+    background-image: url('img/kv_solid.png');
+    background-size: 100%;
+    position: Absolute;
+
+}
+
+.big_hor_line
+{
+
+    width: 100px;
+    height: 2px;
+    background-image: url('img/tieva_gara_hor.png');
+    background-size: 100%;
+    position: Absolute;
+
+}
+
+.small_hor_line
+{
+
+    width: 70px;
+    height: 2.5px;
+    background-image: url('img/tieva_isa_hor.png');
+    background-size: 100%;
+    position: Absolute;
+
+}
+
+.container .button
+{
+
+    position: absolute;
+    -ms-transform: translate(-50%, -50%);
+    color: black;
+    background-color: white;
+    font-family: 'Bai Jamjuree', bold;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+
+    width: 250px;
+    height: 61px;
+    background-image: url('img/poga.png');
+    background-size: 100%;
+    position: Absolute;
+
+}
+
+.container .button:hover {
+    background-color: #fbe0e4;
+}
+
+
+
+.img_aboutus
+{
+
+    width: 625px;
+    height: 570px;
+    background-image: url('img/Aboutus.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 170px;
+    left: 0px;
+
+}
+
+.img_rakete
+{
+    white-space: nowrap ;
+    width: 200px;
+    height: 175px;
+    background-image: url('img/Rakete.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 775px;
+    left: 1005px;
+
+}
+
+.img_smadzenes
+{
+    white-space: nowrap ;
+    width: 200px;
+    height: 150px;
+    background-image: url('img/Smadzenes.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 778px;
+    right: 710px;
+
+}
+
+.img_lampina
+{
+    width: 120px;
+    height: 180px;
+    background-image: url('img/Lampina.png');
+    background-size: 100%;
+    position: Absolute;
+    top: 750px;
+    right: 1070px;
+
+}
+
+.texttest{
+
+    left: 260px;
+    bottom: -230px;
+    white-space: nowrap ;
+    font-size: 35px;
+    position: absolute;
+    font-family: 'Blinker', sans-serif;
+    color: black
+
+}
+
+.texttest2{
+
+    left: 640px;
+    bottom: -230px;
+    white-space: nowrap ;
+    font-size: 35px;
+    position: absolute;
+    font-family: 'Blinker', sans-serif;
+    color: black
+
+}
+
+.texttest3{
+
+    left: 1010px;
+    bottom: -230px;
+    white-space: nowrap ;
+    font-size: 35px;
+    position: absolute;
+    font-family: 'Blinker', sans-serif;
+    color: black
+
+}
+
+.very_big_hor_line
+{
+
+    width: 1400px;
+    height: 3px;
+    background-image: url('img/LOTI GARA HOR LINIJA.png');
+    background-size: 100%;
+    position: Absolute;
+
+}
+
+.Gallery_di
+{
+
+    width: 750px;
+    height: 680px;
+    background-image: url('img/Galerija.png');
+    background-size: 100%;
+    left: 0px;
+    position: Absolute;
+
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel
+{
+
+    left: 350px;
+    height: 600px;
+    perspective: 600px;
+}
+
+.carousel .carousel-item
+{
+    width: 230px;
+}
+
+
+
+
+
